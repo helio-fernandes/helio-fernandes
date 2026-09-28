@@ -41,6 +41,9 @@
   <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/helio-fernandes">
 </picture>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=helio-fernandes&theme=onedark&show_icons=true&locale=en" alt="Hélio's GitHub stats" /></p>
+<p>
+  <img src="https://o-teu-projeto.vercel.app/api?username=helio-fernandes&theme=onedark&show_icons=true&locale=en" alt="Hélio's GitHub stats" />
+  <img src="https://o-teu-projeto.vercel.app/api/top-langs?username=helio-fernandes&theme=onedark&layout=compact&locale=en" alt="Most Used Languages" />
+</p>
 
 
