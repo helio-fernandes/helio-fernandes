@@ -1,20 +1,46 @@
 <h1 align="center">Hi 👋, I'm Hélio</h1>
-<h3 align="center">PHP Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **PHP**, **HTML-CSS-JavaScript**
+<p align="center">
+  Full-stack developer with around 2 years of professional experience building and maintaining web applications, mainly with PHP and MySQL.
+</p>
 
-- 📝 Sometimes write articles on [helio.pt](https://helio.pt)
+---
 
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+- 💼 Currently working as a **Full-Stack Developer**
+- 🛠️ Building web applications with **PHP**, **Laravel** and **Yii2**
+- 🗄️ Designing and maintaining **MySQL** databases
+- 🐧 Comfortable working in **Linux** environments with **Git**-based workflows
+- 🌱 Always improving my skills and keeping up with new technologies
+- 📝 I occasionally write articles at [helio.pt](https://helio.pt)
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg" alt="Yii2" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/H3l1oF?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/H3l1oF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/helio-fernandes?theme=dark">
+  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/helio-fernandes">
 </picture>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=h3l1of&theme=onedark&show_icons=true&locale=en" alt="h3l1of" /></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=helio-fernandes&theme=onedark&show_icons=true&locale=en" alt="Hélio's GitHub stats" /></p>
 
 
