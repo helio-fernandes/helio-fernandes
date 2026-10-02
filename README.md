@@ -40,7 +40,7 @@ I build and maintain web applications in PHP, covering the back end, the databas
  
 ## Writing
  
-I publish notes on what I study at [helio.pt/blog](https://helio.pt/blog/). A good place to start is [how I built the blog itself](https://helio.pt/blog/building-this-blog/).
+I publish notes on what I study at [helio.pt](https://helio.pt/).
  
 ## Get in touch
  
